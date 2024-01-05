@@ -1,5 +1,4 @@
 # STUDENT NAME: Alina Tan
-# STUDENT ID: 260894652
 import pickle
 import numpy as np
 import pandas as pd
